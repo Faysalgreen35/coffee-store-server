@@ -1,4 +1,4 @@
-# Coffe Store Client site
+# Coffe Store server site
 
 ## Live Site URL
 [Visit Coffe Store Server site](https://coffee-store-2a449.web.app///)
@@ -40,8 +40,8 @@ If you have any questions, feedback, or inquiries, feel free to reach out to us 
 
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/programming-hero-web-course-4/b9a9-real-estate-Faysalgreen35?tab=readme-ov-file`
-2. Navigate to the project directory: `cd Real-Land`
+1. Clone the repository: `git clone https://github.com/Faysalgreen35/coffee-store-client`
+2. Navigate to the project directory: `cd coffe-store-server`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
 
